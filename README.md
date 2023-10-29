@@ -22,6 +22,9 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       JavaScript
     </th>
     <th>
+      JavaScript¹
+    </th>
+    <th>
       Java
     </th>
     <th>
@@ -50,6 +53,11 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
     <th>
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" />
+      </a>
+    </th>
+    <th>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript" />
       </a>
     </th>
     <th>
@@ -88,9 +96,6 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
     <th>
       Vuetify
     </th>
-    <th>
-      React² <br />
-    </th>
   </tr>
   <tr>
     <th>
@@ -108,15 +113,8 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="32" alt="Vuetify" />
       </a>
     </th>
-    <th>
-      <a href="https://vuetifyjs.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" alt="React" />
-      </a>
-    </th>
   </tr>
  </table>
-
-² soon and I know that React is not a framework (is a library) 😉
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Tools)](https://git.io/typing-svg)
 ---
