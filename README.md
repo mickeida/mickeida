@@ -22,7 +22,7 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       JavaScript
     </th>
     <th>
-      JavaScript¹
+      TypeScript¹
     </th>
     <th>
       Java
@@ -56,7 +56,7 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       </a>
     </th>
     <th>
-      <a href="#">
+      <a href="https://www.typescriptlang.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript" />
       </a>
     </th>
