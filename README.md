@@ -91,6 +91,9 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       Spring
     </th>
     <th>
+      Angular¹
+    </th>
+    <th>
       Vue.js
     </th>
     <th>
@@ -101,6 +104,11 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
     <th>
       <a href="https://spring.io/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="32" alt="Spring" />
+      </a>
+    </th>
+    <th>
+      <a href="https://angular.io/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="32" alt="Vuetify" />
       </a>
     </th>
     <th>
@@ -115,6 +123,8 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
     </th>
   </tr>
  </table>
+
+¹ soon
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Tools)](https://git.io/typing-svg)
 ---
