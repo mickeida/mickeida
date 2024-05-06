@@ -51,17 +51,17 @@ JavaScript (later: TypeScript) for frontend.
       </a>
     </th>
     <th>
-      <a href="https://www.typescriptlang.org/">
+      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript" />
       </a>
     </th>
     <th>
-      <a href="https://www.java.com/">
+      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="32" alt="Java" />
       </a>
     </th>
     <th>
-      <a href="https://www.php.net/">
+      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="32" alt="PHP" />
       </a>
     </th>
@@ -147,7 +147,7 @@ JavaScript (later: TypeScript) for frontend.
   </tr>
   <tr>
     <th>
-      <a href="https://code.visualstudio.com/">
+      <a href="https://www.eclipse.org/">
         <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="32" alt="Eclipse" />
       </a>
     </th>
