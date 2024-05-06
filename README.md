@@ -1,12 +1,15 @@
-# Hey!
+# Moin!
 
 ```txt
-My name is Michael, I study Systems Engineering and maybe I'm a full stack developer. I'm not sure yet 😅
+My name is Michael, I come from Germany and study Systems
+Engineering. Personally, I see myself as a full-stack developer.
+
+My main programming language is Java for backend and
+JavaScript (later: TypeScript) for frontend.
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Languages)](https://git.io/typing-svg)
 ---
-
 <table>
   <tr>
     <th>
@@ -14,9 +17,6 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
     </th>
     <th>
       CSS
-    </th>
-    <th>
-      PHP
     </th>
     <th>
       JavaScript
@@ -28,7 +28,7 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       Java
     </th>
     <th>
-      Python¹
+      PHP
     </th>
     <th>
       SQL
@@ -43,11 +43,6 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
     <th>
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="32" alt="CSS3" />
-      </a>
-    </th>
-    <th>
-      <a href="https://www.php.net/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="32" alt="PHP" />
       </a>
     </th>
     <th>
@@ -66,8 +61,8 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       </a>
     </th>
     <th>
-      <a href="https://www.python.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="32" alt="Python" />
+      <a href="https://www.php.net/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="32" alt="PHP" />
       </a>
     </th>
     <th>
@@ -80,11 +75,8 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeida&layout=compact&theme=github_dark"/>
 
-¹ soon
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Frameworks)](https://git.io/typing-svg)
 ---
-
 <table>
   <tr>
     <th>
@@ -108,7 +100,7 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
     </th>
     <th>
       <a href="https://angular.io/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="32" alt="Vuetify" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="32" alt="Angular" />
       </a>
     </th>
     <th>
@@ -124,11 +116,8 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
   </tr>
  </table>
 
-¹ soon
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Tools)](https://git.io/typing-svg)
 ---
-
 <table>
   <tr>
     <th>
@@ -141,13 +130,19 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       FileZilla
     </th>
     <th>
-      MySQL
+      DBeaver
     </th>
     <th>
-      npm
+      Node.js
     </th>
     <th>
       Git
+    </th>
+    <th>
+      Sourcetree
+    </th>
+    <th>
+      Docker¹
     </th>
   </tr>
   <tr>
@@ -167,13 +162,13 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
       </a>
     </th>
     <th>
-      <a href="https://www.mysql.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL" />
+      <a href="https://dbeaver.io/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="32" alt="DBeaver" />
       </a>
     </th>
     <th>
-      <a href="https://www.npmjs.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="32" alt="npm" />
+      <a href="https:/nodejs.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js" />
       </a>
     </th>
     <th>
@@ -181,6 +176,17 @@ My name is Michael, I study Systems Engineering and maybe I'm a full stack devel
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="32" alt="Git" />
       </a>
     </th>
+    <th>
+      <a href="https://www.sourcetreeapp.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" width="32" alt="Sourcetree" />
+      </a>
+    </th>
+    <th>
+      <a href="https://www.docker.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
+      </a>
+    </th>
   </tr>
  </table>
- 
+<br/>
+¹ soon
