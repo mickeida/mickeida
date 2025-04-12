@@ -1,14 +1,8 @@
-# Moin!
+# Moin! 👋🏼
 
-```txt
-My name is Michael, I come from Germany and study Systems
-Engineering. Personally, I see myself as a full-stack developer.
+My name is Michael, I'm from Germany, and personally, I consider myself a full-stack developer.
 
-My main programming language is Java for backend and
-JavaScript (later: TypeScript) for frontend.
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Languages)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=60000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Languages)](https://git.io/typing-svg)
 ---
 <table>
   <tr>
@@ -73,9 +67,9 @@ JavaScript (later: TypeScript) for frontend.
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeida&layout=compact&theme=github_dark"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickeida&layout=compact&theme=github_dark"/>-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Frameworks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=60000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Frameworks)](https://git.io/typing-svg)
 ---
 <table>
   <tr>
@@ -87,9 +81,6 @@ JavaScript (later: TypeScript) for frontend.
     </th>
     <th>
       Vue.js
-    </th>
-    <th>
-      Vuetify
     </th>
   </tr>
   <tr>
@@ -108,18 +99,22 @@ JavaScript (later: TypeScript) for frontend.
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="32" alt="Vue.js" />
       </a>
     </th>
-    <th>
-      <a href="https://vuetifyjs.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="32" alt="Vuetify" />
-      </a>
-    </th>
   </tr>
  </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=60000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Tools)](https://git.io/typing-svg)
 ---
 <table>
   <tr>
+    <th>
+      Git
+    </th>
+    <th>
+      Node.js
+    </th>
+    <th>
+      Docker
+    </th>
     <th>
       Eclipse
     </th>
@@ -133,19 +128,25 @@ JavaScript (later: TypeScript) for frontend.
       DBeaver
     </th>
     <th>
-      Node.js
-    </th>
-    <th>
-      Git
-    </th>
-    <th>
       Sourcetree
-    </th>
-    <th>
-      Docker¹
     </th>
   </tr>
   <tr>
+    <th>
+      <a href="https://git-scm.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="32" alt="Git" />
+      </a>
+    </th>
+    <th>
+      <a href="https:/nodejs.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js" />
+      </a>
+    </th>
+    <th>
+      <a href="https://www.docker.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
+      </a>
+    </th>
     <th>
       <a href="https://www.eclipse.org/">
         <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="32" alt="Eclipse" />
@@ -167,26 +168,11 @@ JavaScript (later: TypeScript) for frontend.
       </a>
     </th>
     <th>
-      <a href="https:/nodejs.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js" />
-      </a>
-    </th>
-    <th>
-      <a href="https://git-scm.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="32" alt="Git" />
-      </a>
-    </th>
-    <th>
       <a href="https://www.sourcetreeapp.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" width="32" alt="Sourcetree" />
       </a>
     </th>
-    <th>
-      <a href="https://www.docker.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
-      </a>
-    </th>
   </tr>
- </table>
+</table>
 <br/>
 ¹ soon
